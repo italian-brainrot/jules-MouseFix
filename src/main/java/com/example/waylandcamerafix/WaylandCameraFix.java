@@ -1,4 +1,4 @@
-package com.example.waylandcamerafix;
+package com.jules.waylandcamerafix;
 
 import net.neoforged.fml.common.Mod;
 

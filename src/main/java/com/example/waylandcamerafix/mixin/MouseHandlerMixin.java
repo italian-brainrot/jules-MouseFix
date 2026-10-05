@@ -1,4 +1,4 @@
-package com.example.waylandcamerafix.mixin;
+package com.jules.waylandcamerafix.mixin;
 
 import net.minecraft.client.MouseHandler;
 import org.spongepowered.asm.mixin.Mixin;
